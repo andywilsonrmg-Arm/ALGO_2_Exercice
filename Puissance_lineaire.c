@@ -1,4 +1,5 @@
 #include <stdio.h>
+// puissance lineaire
 unsigned int count=0;
 unsigned int puissance_lineaire(unsigned int x ,unsigned int n){
     printf("Appel %u ^ %u \n",x,n);
