@@ -14,7 +14,7 @@ unsigned int puissance_lineaire(unsigned int x ,unsigned int n){
     }
 }
 int main(){
-    unsigned int resultat=puissance_lineaire(2,6);
+    unsigned int resultat=puissance_lineaire(2,8);
     printf("\n Resultat : %u\n",resultat);
     printf("Appels de la fonction %u fois\n",count);
     return 0;
